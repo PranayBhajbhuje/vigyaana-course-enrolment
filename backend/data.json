@@ -1,0 +1,72 @@
+{
+  "courses": [
+    {
+      "id": "course01",
+      "title": "Intro to AI",
+      "instructor": "Dr. Smith",
+      "duration": "6 weeks"
+    },
+    {
+      "id": "course02",
+      "title": "React for Beginners",
+      "instructor": "Ms. Patel",
+      "duration": "4 weeks"
+    },
+    {
+      "id": "course03",
+      "title": "Node.js Fundamentals",
+      "instructor": "Mr. Khan",
+      "duration": "5 weeks"
+    },
+    {
+      "id": "course04",
+      "title": "Data Structures",
+      "instructor": "Dr. Rao",
+      "duration": "8 weeks"
+    }
+  ],
+  "enrollments": [
+    {
+      "id": "1760622953369",
+      "userId": "101",
+      "courseId": "course02",
+      "enrolledAt": "2025-10-16T13:55:53.369Z"
+    },
+    {
+      "id": "1760623061108",
+      "userId": "001",
+      "courseId": "course03",
+      "enrolledAt": "2025-10-16T13:57:41.108Z"
+    },
+    {
+      "id": "1760623077480",
+      "userId": "001",
+      "courseId": "course02",
+      "enrolledAt": "2025-10-16T13:57:57.480Z"
+    },
+    {
+      "id": "1760624700131",
+      "userId": "student_001",
+      "courseId": "course01",
+      "enrolledAt": "2025-10-16T14:25:00.131Z"
+    },
+    {
+      "id": "1760624703688",
+      "userId": "student_001",
+      "courseId": "course04",
+      "enrolledAt": "2025-10-16T14:25:03.688Z"
+    },
+    {
+      "id": "1760625048982",
+      "userId": "103",
+      "courseId": "course04",
+      "enrolledAt": "2025-10-16T14:30:48.982Z"
+    },
+    {
+      "id": "1760625656491",
+      "userId": "pranay bhajbhuje",
+      "courseId": "course02",
+      "enrolledAt": "2025-10-16T14:40:56.491Z"
+    }
+  ]
+}
